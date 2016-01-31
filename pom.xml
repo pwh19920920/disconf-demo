@@ -13,5 +13,6 @@
     <modules>
         <module>disconf-demo-pojo</module>
         <module>disconf-demo-xml</module>
+        <module>disconf-demo-dubbo</module>
     </modules>
 </project>
